@@ -16,8 +16,8 @@ you give it the stock ticker symbol and it returns a bunch of information <br>
 
 <body>
 
-    '''Step 1: In your terminal, run <br>
-    npm install <br>'''
+    Step 1: In your terminal, run 
+    npm install
     
 
 </body>
