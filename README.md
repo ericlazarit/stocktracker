@@ -1,6 +1,6 @@
-This is a simple stock tracker app that you can run in your browser
+This is a simple stock tracker app that you can run in your browser.
 
-you give it the stock ticker symbol and it returns a bunch of information <br>
+You give it the stock ticker symbol and it returns a bunch of information <br>
     Time Stamp <br>
     Current Price<br>
     High Price <br>
