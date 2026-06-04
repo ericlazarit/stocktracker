@@ -1,6 +1,6 @@
 This is a simple stock tracker app that you can run in your browser.
 
-You give it the stock ticker symbol and it returns a bunch of information.
+You give it the stock ticker symbol along with a time interval and it returns a bunch of up-to-date information.
  <br>
  <br>
     Time Stamp <br>
