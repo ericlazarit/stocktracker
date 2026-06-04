@@ -145,7 +145,7 @@ function App(){
                         */}
 
                         {info.map((row, idx) => (
-                            
+
                             <tr key={idx}>
                                 <td>{row.timestamp}</td>
                                 <td>{row.currentprice}</td>
