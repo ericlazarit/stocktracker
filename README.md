@@ -2,6 +2,7 @@ This is a simple stock tracker app that you can run in your browser.
 
 You give it the stock ticker symbol and it returns a bunch of information.
  <br>
+ <br>
     Time Stamp <br>
     Current Price<br>
     High Price <br>
