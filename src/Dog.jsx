@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react'
+import { useState } from 'react'
 
 function Dog(){
     const [image, setImage] = useState("")

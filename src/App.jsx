@@ -1,7 +1,6 @@
 import React, { useState, useEffect } from 'react'
 import Dog from './Dog.jsx'
 
-
 {/*
     To be done in the future:             
     implementing datasets, cloud, graphics
@@ -62,7 +61,7 @@ function App(){
                 previousClosePrice: data.pc,
                 percentChange: data.dp,
                 priceChange: data.d,
-                timestamp: Date()
+                timestamp: new Date().toLocaleDateString() + " " + new Date().toLocaleTimeString()
             }
 
 
@@ -162,20 +161,7 @@ function App(){
                 </table>
         <tr>
         </tr>
-
-
-
-
-
         </div>
-
-
-
-
-
-
-
-        
     )
 
 }
